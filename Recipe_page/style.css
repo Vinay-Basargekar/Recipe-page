@@ -1,22 +1,81 @@
+@font-face {
+    font-family: myfont;
+    src: url(./assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
+
+@font-face {
+    font-family: newfont;
+    src: url(/Recipe_page/assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
+
 body {
 	background: hsl(30, 54%, 90%);
-    padding-left: 30%;
-    padding-top: 5%;
-    
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .main-frame {
 	background: white;
 	width: 50%;
-    padding: 10px;
+    padding: 50px;
+    margin-top: 10rem;
     align-content: center;
-    border-radius: 16px;
+    border-radius: 32px;
+    font-family: newfont;
+    color: hsl(30, 10%, 34%);
 }
 
 img{
 	border-radius: 8px;
+    max-width: 100%;
     height: auto;
-    width: 500px;
-    align-content: center;
 }
 
+.heading{
+    font-family: myfont;
+    margin-top: 3%;
+}
+
+.mheading{
+    font-family: myfont;
+    color:hsl(24, 5%, 18%);
+}
+
+h2{
+    color: hsl(14, 45%, 36%);
+}
+
+.purpleText{
+    color: hsl(332, 51%, 32%);
+}
+
+.prep-time{
+    border-radius: 8px;
+    padding: 10px 20px 10px;
+    background: hsl(330, 100%, 98%);
+}
+
+.bullets li {
+    margin-bottom: 3%;
+    padding-left: 10px;
+    line-height: 1.5;
+}
+
+table {
+    width: 100%; 
+    border-collapse: separate;
+    border-spacing: 10px;
+    
+}
+
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+
+.value{
+    color: hsl(14, 45%, 36%);
+}
