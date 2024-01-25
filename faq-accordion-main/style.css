@@ -1,0 +1,36 @@
+body{
+    background: hsl(275, 100%, 97%);
+    margin: 0;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    z-index: 1;
+}
+
+.QuesAnswer{
+    background: hsl(0, 0%, 100%);
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+    position: absolute;
+    z-index: 2;
+    top: 50%; /* Move the top of the .QuesAnswer to the center of the screen */
+    left: 50%; /* Move the left of the .QuesAnswer to the center of the screen */
+    transform: translate(-50%, -50%); /* Center the .QuesAnswer */
+    padding: 3rem;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icon-star {
+    width: 30px; /* Adjust the margin as needed for spacing */
+    height: auto;
+
+}
