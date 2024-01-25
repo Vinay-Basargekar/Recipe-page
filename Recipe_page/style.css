@@ -1,16 +1,16 @@
 @font-face {
-    font-family: myfont;
+    font-family: youngSerif;
+    
     src: url(./assets/fonts/young-serif/YoungSerif-Regular.ttf);
 }
 
 @font-face {
-    font-family: newfont;
+    font-family: outfit;
     src: url(/Recipe_page/assets/fonts/outfit/Outfit-VariableFont_wght.ttf);
 }
 
 body {
 	background: hsl(30, 54%, 90%);
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,7 +23,8 @@ body {
     margin-top: 10rem;
     align-content: center;
     border-radius: 32px;
-    font-family: newfont;
+    font-family: outfit;
+    font-weight: 400, 600, 700;;
     color: hsl(30, 10%, 34%);
 }
 
@@ -34,12 +35,14 @@ img{
 }
 
 .heading{
-    font-family: myfont;
+    font-family: youngSerif;
+    font-weight: 400;
     margin-top: 3%;
 }
 
 .mheading{
-    font-family: myfont;
+    font-family: youngSerif;
+    font-weight: 400;
     color:hsl(24, 5%, 18%);
 }
 
