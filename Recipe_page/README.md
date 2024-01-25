@@ -9,7 +9,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [might not work properly](https://my-project-three-sigma.vercel.app/)
+- Live Site URL: [might not work properly](https://front-end-black-rho.vercel.app/)
 
 ## My process
 
