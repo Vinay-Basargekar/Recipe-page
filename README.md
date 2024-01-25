@@ -2,16 +2,6 @@
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Getting started](#Getting-started)
-
 ### Screenshot
 
 ![](./Recipe_page/screenshot.png)
@@ -19,7 +9,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://my-project-three-sigma.vercel.app/)
+- Live Site URL: [might not work properly](https://my-project-three-sigma.vercel.app/)
 
 ## My process
 
