@@ -9,7 +9,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [might not work properly](https://front-end-black-rho.vercel.app/)
+- Live Site URL: [A tasty Omelette waiting :yum:](https://front-end-black-rho.vercel.app/)
 
 ## My process
 
@@ -28,7 +28,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ### What I learned
 
-Helped me to know to how to apply different fonts
+I've gained insights on applying different fonts, improving my knowledge of the process.
 
 # Getting started
 For starting this in your machine, open the terminal and follow these commands:
