@@ -39,7 +39,7 @@ git clone https://github.com/Vinayy-B/frontEnd.git
 
 cd into working directory
 ```
-cd Recipe_page
+cd social-links-profile-main
 ```
 
 open http://localhost:3000 in browser to run.
