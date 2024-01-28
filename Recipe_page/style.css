@@ -15,14 +15,12 @@ body {
     align-items: center;
 }
 
-@media (max-width:400px) {
-    .main-frame{
-        width: 100%;
+@media (max-width:500px) {
+
+    body{
         margin: 0;
+        justify-content: stretch;
     }
-    /* body{
-        margin: 0;
-    } */
 
     
 }
@@ -37,6 +35,18 @@ body {
     font-family: outfit;
     font-weight: 400, 600, 700;;
     color: hsl(30, 10%, 34%);
+}
+
+@media (max-width:500px) {
+    .main-frame{
+        width: 100%;
+        margin: 0;
+        padding: 20px;
+        border-radius: 0;
+    }
+
+
+    
 }
 
 img{
