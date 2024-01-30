@@ -9,7 +9,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [A tasty Omelette waiting :yum:](https://front-end-black-rho.vercel.app/)
+- Live Site URL: [A tasty Omelette waiting :yum:](https://recipe-page-one-kappa.vercel.app/)
 
 ## My process
 
